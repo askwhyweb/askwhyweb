@@ -1,4 +1,4 @@
-# Hey there, I'm **[Farhan Islam](https://www.linkedin.com/in/askwhyweb/ "Farhan Islam")**
+# Hey there, I'm **[Farhan Islam](https://www.linkedin.com/in/ask-farhanislam/ "Farhan Islam")**
 
 I work in software engineering leadership, with most of my experience sitting around eCommerce platforms, digital systems, solution architecture and delivery operations.
 
@@ -72,11 +72,11 @@ It is not limited to one language, tool or framework. My interest is broader tha
 
 Feel free to reach out if you want to discuss software engineering, eCommerce platforms, architecture, delivery governance, production reliability or digital transformation.
 
-* [LinkedIn](https://www.linkedin.com/in/askwhyweb/ "Farhan Islam")
+* [LinkedIn](https://www.linkedin.com/in/ask-farhanislam/ "Farhan Islam")
 * [GitHub](https://github.com/askwhyweb "askwhyweb")
 
 Cheers,<br />
-**[Farhan Islam](https://www.linkedin.com/in/askwhyweb/ "Farhan Islam")**<br />
+**[Farhan Islam](https://www.linkedin.com/in/ask-farhanislam/ "Farhan Islam")**<br />
 **Head of Software Development**<br />
 **FiveTech Ltd**<br />
 <img src="https://komarev.com/ghpvc/?username=askwhyweb" alt="Farhan Islam" />
