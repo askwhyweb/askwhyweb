@@ -15,10 +15,11 @@ I am Head of Software Development at Retail Direct Group, with 15+ years of expe
 ## Selected Engineering Work
 
 - [Ingestion Platform](https://github.com/askwhyweb/ingestion-platform) — a local observability pipeline built around Vector, Kafka, OpenSearch and object storage. Its intake, validation, search, retention and archival paths show how I think about system boundaries and operational trade-offs. The project is an evaluation environment, not a claim of production use.
-- [MedusaJS Commerce Platform Evaluation](https://github.com/askwhyweb/medusajs-demo) — a containerised evaluation with a Medusa backend, Next.js storefront, PostgreSQL, Redis and seeded catalogue. It explores the admin-to-storefront integration, cache refresh behaviour and the limits of a local development setup.
 - [Magento 2 Add to Cart by URL](https://github.com/askwhyweb/magento2-add-to-cart-by-url) — a historical commerce extension showing earlier hands-on work extending Magento storefront flows. It remains as implementation history and is not a current platform recommendation.
 
 These projects are selected examples of implementation and evaluation. They represent only a small part of my professional work, which also includes engineering leadership, architecture decisions and delivery responsibility across business platforms.
+
+Across delivery, I focus on shaping manageable change: agreeing the problem and constraints, clarifying decision and service ownership, sequencing platform modernisation around operational needs, and using observability and release controls to keep services supportable. I work across business and engineering stakeholders so architecture choices remain tied to customer outcomes and delivery realities.
 
 ## Engineering Approach
 
